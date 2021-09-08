@@ -1,0 +1,32 @@
+.btn {
+  width: 200px;
+  font-size: 30px;
+  border-radius: 20px;
+  background-color: rgb(217, 255, 0);
+  box-shadow: 0 0 5px #d0f403, 0 0 15px #b4f403, 0 0 25px #c8f403,
+    0 0 50px #c8f403;
+  -webkit-box-reflect: below 1px linear-gradient(transparent, #0005);
+}
+
+.msg {
+  font-size: 50px;
+}
+
+body {
+  background-color: rgb(172, 167, 167);
+}
+
+.cola {
+  font-size: 50px;
+  background-color: rgb(151, 179, 180);
+  padding: 100px 0px 100px 0px;
+}
+
+.btn2 {
+  width: 200px;
+  height: 80px;
+  border-radius: 20px;
+  font-size: 40px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
